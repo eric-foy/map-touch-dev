@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include <unistd.h>
 #include <linux/input.h>
 #include <fcntl.h>
